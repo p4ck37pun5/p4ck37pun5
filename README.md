@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a tech entrepreneur with a passion for cybersecurity. <br><br>My interest in security engineering and automation began in high school when I worked on various projects. Now, as a blue team professional, I work to improve digital security systems. <br><br>In the last six years, I’ve gained valuable experience through hands-on internships and real-world projects, sharpening my skills to develop and implement effective security controls to help enterprises safeguard their critical digital assets. <br><br>As the Founder and CEO of Arifalab, I lead a dedicated team focused on creating innovative tools that empower mid-sized businesses to strengthen their cyber resilience. Together, we’re building smarter security operations systems that help organisations improve their detection, response and mitigation efforts.<br><br>Recognised for my contributions, I actively share knowledge through seminars and workshops, inspiring others to explore the vast opportunities of technology.</p>
+<p data-importer="text" align="left">I'm a tech entrepreneur with a passion for cybersecurity. <br><br>My interest in security engineering and automation began in high school when I worked on various projects. Now, as a blue team professional, I work to improve digital security systems. <br><br>In the last six years, I’ve gained valuable experience through hands-on internships and real-world projects, sharpening my skills to develop and implement effective security controls to help enterprises safeguard their critical digital assets. <br><br>As the Founder and CEO of <a href="https://arifalab.com">Arifalab</a>, I lead a dedicated team focused on creating innovative tools that empower mid-sized businesses to strengthen their cyber resilience. Together, we’re building smarter security operations systems that help organisations improve their detection, response and mitigation efforts.<br><br>Recognised for my contributions, I actively share knowledge through seminars and workshops, inspiring others to explore the vast opportunities of technology.</p>
 
 ###
 
@@ -16,9 +16,19 @@
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left"> 
+  <a href="https://kqimble.com">Kqimble</a> - an autonomous security operations platform that provides 24/7 threat detection, incident management, and on-demand access to specialists for support requests.
+</p>
 
 ###
+
+<h3 data-importer="text" align="left">My publications</h3>
+
+###
+
+<a href="https://arifalab.com/newsroom/blog/the-insider-syndicate-kenyas-shadow-marketplace-for-company-credentials">The Insider Syndicate: Kenya’s Shadow Marketplace for Company Credentials</a> </br>
+<a href="https://arifalab.com/newsroom/blog/selecting-the-ideal-cybersecurity-provider-for-your-business-a-practical-guide-for-smbs-and-startups">Selecting the Ideal Cybersecurity Provider for Your Business: A Practical Guide for SMBs and Startups</a>
+
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
@@ -26,11 +36,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">My Tech Stack</h3>
+<h3 data-importer="text" align="left">My Tech Stack</h3>
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -62,11 +72,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">Let's connect and work together!</h3>
+<h3 data-importer="text" align="left">Let's connect and work together!</h3>
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://t.me/p4ck37pun5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -79,8 +89,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
