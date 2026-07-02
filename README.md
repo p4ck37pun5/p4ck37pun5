@@ -6,6 +6,12 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="left">What I'm Building</h3>
 
 ###
@@ -20,35 +26,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Let's connect and work together!</h3>
+<h3 data-importer="text" align="center">My Tech Stack</h3>
 
 ###
 
-<div data-importer="socials" align="left">
-  <a href="https://t.me/p4ck37pun5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://x.com/p4ck37pun5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@p4ck37pun5&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://linkedin.com/in/isaac-muendo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">Tech Stack</h3>
-
-###
-
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -80,10 +62,30 @@
 
 ###
 
+<h3 data-importer="text" align="center">Let's connect and work together!</h3>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://t.me/p4ck37pun5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/p4ck37pun5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@p4ck37pun5&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://linkedin.com/in/isaac-muendo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/p4ck37pun5/p4ck37pun5/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
 ###
