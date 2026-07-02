@@ -22,13 +22,24 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="left">My publications</h3>
 
 ###
 
 <a href="https://arifalab.com/newsroom/blog/the-insider-syndicate-kenyas-shadow-marketplace-for-company-credentials">The Insider Syndicate: Kenya’s Shadow Marketplace for Company Credentials</a> </br>
-<a href="https://arifalab.com/newsroom/blog/selecting-the-ideal-cybersecurity-provider-for-your-business-a-practical-guide-for-smbs-and-startups">Selecting the Ideal Cybersecurity Provider for Your Business: A Practical Guide for SMBs and Startups</a>
+<a href="https://arifalab.com/newsroom/blog/selecting-the-ideal-cybersecurity-provider-for-your-business-a-practical-guide-for-smbs-and-startups">Selecting the Ideal Cybersecurity Provider for Your Business: A Practical Guide for SMBs and Startups</a></br>
+<a href="https://arifalab.com/reports/Cyber%20Threat%20Outlook%20November%202025%20-%20January%202026.pdf" style="text-decoration: underline;">Cyber Threat Outlook - November 2025 - January 2026</a></br>
+<a href="https://arifalab.com/newsroom/blog/killer-automation-the-hidden-cost-of-trusting-an-algorithm-to-run-your-cybersecurity-operations">Killer Automation: The Hidden Cost of Trusting an Algorithm to Run Your Cybersecurity Operations</a></br>
+</br>
+<a href="https://arifalab.substack.com">→ All publications</a>
 
+###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
